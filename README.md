@@ -52,7 +52,7 @@ Clone this repository to your desired folder:
 
 👤 **Author1**
 
-- GitHub: [@zeph180](https://github.com/LeslieAine)
+- GitHub: [https://github.com/LeslieAine]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
